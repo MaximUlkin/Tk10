@@ -1,2 +1,4 @@
 # Tk10
-Application to manage student data (made with Tkinter)
+
+This is for all the future changes that will be made to
+the name section of the app, and later on updated to master
